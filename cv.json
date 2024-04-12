@@ -6,7 +6,7 @@
     "email": "luiss_alberto@hotmail.com",
     "phone": "+52 2225469019",
     "url": "https://luissalberto.com/",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Soy un profesional con un Ph.D. en Electrónica, con especialización en el ámbito de Internet de las Cosas (IoT). Mi experiencia radica en la creación de sólidas soluciones de IoT que cierran la brecha entre los ámbitos digital y físico, mejorando las experiencias de los usuarios y mejorando la eficiencia operativa.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -39,7 +39,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Gestión de proyectos y tareas tecnológicas en el ámbito de las ciudades inteligentes. Liderar el diseño, desarrollo e implementación de Controles de Semáforo, sensores ambientales, controlador interactivo para video mapping y sistema de conteo de vehículos mediante IA.",
       "highlights": [
         "Started the company"
       ]
@@ -50,7 +50,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Liderar el diseño, desarrollo e implementación de sensores ambientales como dispositivo IoT para ciudades inteligentes. Liderar el diseño, desarrollo e implementación de sistemas IoT locales y en la nube.",
       "highlights": [
         "Started the company"
       ]
@@ -60,7 +60,7 @@
       "position": "Coordinador de Maestría en Ingeniería",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "A cargo de la Oficina de Transferencia de Tecnología (OTT), oficina especializada en identificar la tecnología o conocimiento con potencial de aplicación comercial. Además, gestiona los asuntos de propiedad intelectual, incluyendo la facilitación de solicitudes de patentes, el otorgamiento de licencias de innovaciones universitarias a las sector comercial y asesoramiento en las condiciones de los acuerdos de investigación. Evaluador de Proyectos de Investigación, Miembro del Comité Interno Institucional de Proyectos de Investigación. Impulsar proyectos de investigación tecnológica de alto impacto que contribuyan al desarrollo de la región de los Tuxtlas Veracruz.",
       "highlights": [
         "Started the company"
       ]
@@ -70,7 +70,7 @@
       "position": "Asistente de Investigación",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Diseño, construcción, validación y pruebas de un radioenlace RF en la banda UHF del espectro electromagnético, en el marco del primer nanosatélite mexicano “Ulises I”. Para monitorear datos de telemetría y controlar el nanosatélite de forma remota. Diseño y caracterización de antenas elementales dipolo para comunicaciones de nanosatélites en la banda UHF.",
       "highlights": [
         "Started the company"
       ]
@@ -91,10 +91,10 @@
     {
     "institution": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Doctorado en Electrónica",
+    "area": "Dr.Cs. en la Especialidad de Electrónica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2015-12-05",
+    "endDate": "2019-06-19",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -103,10 +103,10 @@
   {
     "institution": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Maestría en Electrónica",
+    "area": "M.Cs. en la Especialidad de Electrónica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2012-05-01",
+    "endDate": "2014-12-05",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -115,10 +115,10 @@
   {
     "institution": "Benemérita Universidad Autónoma de Puebla",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniería Mecatrónica",
+    "area": "Ing. Mecatrónica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2005-08-01",
+    "endDate": "2010-07-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -278,33 +278,12 @@
     {
       "name": "mars.codes",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Desarrollo de vehículo aéreo no tripulado autónomo, para la captura y análisis de imágenes en la agricultura y ganadería de precisión y monitoreo ambiental.",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
       ],
       "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
     },
     {
       "name": "codi.link",
@@ -318,18 +297,8 @@
       "github": "https://github.com/midudev/codi.link"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
       "name": "miduConf",
+      "isActive": false,
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
       "highlights": [
         "+15k tickets repartidos",
