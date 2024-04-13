@@ -266,16 +266,17 @@
   }],
   "projects": [
     {
-      "name": "UAV en Agricultura y Ganadería de Precisión",
+      "name": "Plataforma de Monitoreo para Dispositivos IoT",
       "isActive": true,
-      "description": "Desarrollo de vehículo aéreo no tripulado autónomo, para la captura y análisis de imágenes en la agricultura y ganadería de precisión y monitoreo ambiental.",
+      "description": "Diseño e implementación de plataforma para monitoreo de dispositivos IoT a través de infraestructura en la nube.",
       "highlights": [
-        "UAV",
-        "Agricultura de Precisión",
-        "Ganadería de Precisión",
-        "Monitoreo Ambiental"
+        "IoT",
+        "AWS",
+        "Google Cloud",
+        "Azure"
       ],
-      "url": ""
+      "url": "",
+      "github": ""
     },
     {
       "name": "Control de Semáforos",
@@ -287,6 +288,53 @@
       ],
       "url": "",
       "github": ""
+    },
+    {
+      "name": "Sensores de Monitoreo Ambiental",
+      "isActive": true,
+      "description": "Diseño, construcción e implementación de sensores ambientales para interiores y exteriores.",
+      "highlights": [
+        "Sesores",
+        "IoT"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "UAV en Agricultura y Ganadería de Precisión",
+      "isActive": false,
+      "description": "Desarrollo de vehículo aéreo no tripulado autónomo, para la captura y análisis de imágenes en la agricultura y ganadería de precisión y monitoreo ambiental.",
+      "highlights": [
+        "UAV",
+        "Agricultura de Precisión",
+        "Ganadería de Precisión",
+        "Monitoreo Ambiental"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Filtros Resonadores Micro-strip de Modo Dual",
+      "isActive": true,
+      "description": "Diseño y construcción de filtros resonadores micro-strip de modo dual en la banda de 950-1450 MHz.",
+      "highlights": [
+        "Micro-Strip",
+        "950-1450 MHz",
+        "Filtros resonadores"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Sistema de comunicaciones para nanosatélites",
+      "isActive": false,
+      "description": "Diseño e implementación del sistema de comunicaciones para nanosatélites en la banda de UHF.",
+      "highlights": [
+        "Nanosatélites",
+        "UHF",
+        "Ulises I",
+        "FSK"
+      ],
+      "url": ""
     }
   ]
 }
