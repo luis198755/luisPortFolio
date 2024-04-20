@@ -26,7 +26,7 @@
     {
       "name": "Trafficlight de México",
       "position": "Líder Técnico de Investigación y Desarrollo Tecnológico",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://trafficlight.mx/",
       "startDate": "2022-10-01",
       "endDate": null,
       "summary": "Gestión de proyectos y tareas tecnológicas en el ámbito de las ciudades inteligentes. Liderar el diseño, desarrollo e implementación de Controles de Semáforo, sensores ambientales, controlador interactivo para video mapping y sistema de conteo de vehículos mediante IA.",
@@ -37,7 +37,7 @@
     {
       "name": "Trafficlight de México",
       "position": "Ingeniero de Telecomunicaciones",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://trafficlight.mx/",
       "startDate": "2022-01-03",
       "endDate": "2022-10-01",
       "summary": "Liderar el diseño, desarrollo e implementación de sensores ambientales como dispositivo IoT para ciudades inteligentes. Liderar el diseño, desarrollo e implementación de sistemas IoT locales y en la nube.",
@@ -48,6 +48,7 @@
     {
       "name": "Instituto Tecnológico Superior de San Andrés Tuxtla",
       "position": "Coordinador de Maestría en Ingeniería",
+      "url": "https://www.itssat.edu.mx/",
       "startDate": "2021-01-01",
       "endDate": "2021-10-15",
       "summary": "A cargo de la Oficina de Transferencia de Tecnología (OTT), oficina especializada en identificar la tecnología o conocimiento con potencial de aplicación comercial. Además, gestiona los asuntos de propiedad intelectual, incluyendo la facilitación de solicitudes de patentes, el otorgamiento de licencias de innovaciones universitarias a las sector comercial y asesoramiento en las condiciones de los acuerdos de investigación. Evaluador de Proyectos de Investigación, Miembro del Comité Interno Institucional de Proyectos de Investigación. Impulsar proyectos de investigación tecnológica de alto impacto que contribuyan al desarrollo de la región de los Tuxtlas Veracruz.",
@@ -58,6 +59,7 @@
     {
       "name": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
       "position": "Asistente de Investigación",
+      "url": "https://www.inaoep.mx/",
       "startDate": "2013-03-01",
       "endDate": "2019-05-01",
       "summary": "Diseño, construcción, validación y pruebas de un radioenlace RF en la banda UHF del espectro electromagnético, en el marco del primer nanosatélite mexicano “Ulises I”. Para monitorear datos de telemetría y controlar el nanosatélite de forma remota. Diseño y caracterización de antenas elementales dipolo para comunicaciones de nanosatélites en la banda UHF.",
