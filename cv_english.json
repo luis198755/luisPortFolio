@@ -1,66 +1,68 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Luis Alberto Rodríguez Meneses",
+    "label": "Innovative scientist and IoT developer focused on the research and implementation of intelligent systems.",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "luiss_alberto@hotmail.com",
+    "phone": "+52 2225469019",
+    "url": "https://luissalberto.com/",
+    "summary": "As a professional holding a Ph.D. in Electronics, I have developed specialized expertise in the rapidly evolving fields of Internet of Things (IoT) and Artificial Intelligence (AI). My core competency lies in architecting and implementing resilient IoT ecosystems that seamlessly integrate the digital and physical domains, enhanced by advanced AI capabilities. This unique skill set enables me to craft innovative solutions that not only enhance user interactions but also drive significant improvements in operational efficiency across various sectors. My work focuses on leveraging cutting-edge IoT technologies and AI algorithms to create tangible value, transforming raw data into actionable insights through sophisticated analysis and predictive modeling. By combining IoT sensor networks with AI-powered data analytics, I develop systems capable of real-time monitoring, predictive maintenance, and autonomous decision-making. This approach allows for the automation of complex processes and the extraction of deeper, more valuable insights from vast amounts of data, effectively addressing the multifaceted challenges of our increasingly connected and data-driven world.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "city": "Puebla",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
-      {
-        "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "luissalberto",
+        "url": "https://www.linkedin.com/in/luissalberto"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Trafficlight de México",
+      "position": "Technical Leader of Research and Technological Development",
+      "url": "https://trafficlight.mx/",
+      "startDate": "2022-10-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Spearheaded comprehensive project management and technological innovation initiatives in the smart city domain. Led multifaceted teams in the conceptualization, development, and deployment of advanced urban systems. These projects encompassed intelligent Traffic Light Control networks, environmental monitoring sensor arrays, interactive controllers for large-scale video mapping installations, and AI-powered vehicle detection and counting systems. This strategic leadership role encompassed the entire project lifecycle, from initial design through to final implementation, integrating cutting-edge technologies to enhance urban infrastructure and improve city operations. By overseeing these diverse and complex projects, the role contributed significantly to the advancement of smart city technologies, driving efficiency and sustainability in urban environments.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Trafficlight de México",
+      "position": "Telecommunications Engineer",
+      "url": "https://trafficlight.mx/",
+      "startDate": "2022-01-03",
+      "endDate": "2022-10-01",
+      "summary": "Orchestrated the end-to-end development of cutting-edge environmental sensor networks, seamlessly integrating them as IoT devices within smart city infrastructures. Pioneered the architecture, development, and deployment of comprehensive IoT ecosystems, encompassing both local and cloud-based solutions. This work bridged the gap between environmental monitoring and urban intelligence, leveraging IoT technology to enhance city operations and sustainability initiatives.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Instituto Tecnológico Superior de San Andrés Tuxtla",
+      "position": "Coordinator of Master's Degree in Engineering",
+      "url": "https://www.itssat.edu.mx/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-10-15",
+      "summary": "Spearheaded the Technology Transfer Office (TTO), a strategic unit focused on identifying commercially viable technological innovations and intellectual property. Key responsibilities included overseeing IP management, streamlining patent application processes, facilitating the commercialization of university research through licensing agreements, and providing expert counsel on research contract terms. Served as a Research Project Evaluator and member of the Institutional Internal Committee for Research Projects, playing a crucial role in assessing and guiding research initiatives. Actively promoted and fostered high-impact technological research projects aimed at driving economic and technological development in the Los Tuxtlas region of Veracruz.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "National Institute of Astrophysics, Optics and Electronics (INAOE)",
+      "position": "Research Assistant",
+      "url": "https://www.inaoep.mx/",
+      "startDate": "2013-03-01",
+      "endDate": "2019-05-01",
+      "summary": "Engineered and implemented a comprehensive UHF radio frequency link for the pioneering Mexican nanosatellite project, 'Ulises I'. This work encompassed the entire development cycle, including design, fabrication, validation, and performance testing. The system was specifically tailored for telemetry data monitoring and remote nanosatellite control. Additionally, the project involved the design and performance analysis of fundamental dipole antenna systems, optimized for nanosatellite communications within the UHF spectrum.",
       "highlights": [
         "Started the company"
       ]
@@ -77,18 +79,44 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+  "education": [
+    {
+    "institution": "National Institute of Astrophysics, Optics and Electronics",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "area": "Ph.D. in Electronics",
+    "studyType": "Doctorate",
+    "startDate": "2015-12-05",
+    "endDate": "2019-06-19",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {
+    "institution": "National Institute of Astrophysics, Optics and Electronics",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "M.Sc. in Electronics",
+    "studyType": "Master's",
+    "startDate": "2012-05-01",
+    "endDate": "2014-12-05",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Benemérita Universidad Autónoma de Puebla",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "B.Eng. in Mechatronics",
+    "studyType": "Bachelor",
+    "startDate": "2005-08-01",
+    "endDate": "2010-07-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -101,89 +129,119 @@
     "issuer": "Company",
     "url": "https://certificate.com"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
+  "publications": [
+    {
+    "name": "Wideband dual-mode microstrip resonators as IF filters in a K-band wireless transceiver",
+    "publisher": "Microwave and Optical Technology Letters/Volume 62, Issue 2/p. 606-614",
     "releaseDate": "2014-10-01",
     "url": "https://publication.com",
     "summary": "Description…"
-  }],
+    },
+    {
+      "name": "Compact L-band Filter in a k-band Radiometer for Atmospheric Attenuation over Line-of-Sight Links",
+      "publisher": "2018 IEEE MTT-S Latin America Microwave Conference (LAMC 2018)",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    },
+    {
+      "name": "Design and construction of dual-mode micro-strip resonator filters for the 950–1,450 MHz band: Application as IF filters in microwave transceivers",
+      "publisher": "2018 IEEE 9th Latin American Symposium on Circuits & Systems (LASCAS)",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    },
+    {
+      "name": "Design and characterization of elementary dipole antennas for nano satellite communications in the UHF band",
+      "publisher": "Congreso de Instrumentación SOMI XXX, Durango, Durango.",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    },
+    {
+      "name": "Design and construction of a 2d ultrasonic anemometer",
+      "publisher": "Congreso de Instrumentación SOMI XXIV, Mérida, Yucatán.",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Databases", "SQL", "Data Storage", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Colaboración", "Source code"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -210,66 +268,75 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "IoT Device Monitoring Platform",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Design and implementation of a platform for monitoring IoT devices through cloud infrastructure.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "IoT",
+        "AWS",
+        "Google Cloud",
+        "Azure"
       ],
-      "url": "https://mars.codes"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "AdventJS",
+      "name": "Traffic Light Control",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Design, construction, and implementation of traffic light controls.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "Traffic Lights",
+        "IoT"
       ],
-      "url": "https://advent.js/dev"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Codember",
+      "name": "Environmental Monitoring Sensors",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "Design, construction, and implementation of environmental sensors for indoor and outdoor use.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "Sensors",
+        "IoT"
       ],
-      "url": "https://codember.dev"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "name": "UAV in Precision Agriculture and Livestock",
+      "isActive": false,
+      "description": "Development of an autonomous unmanned aerial vehicle for capturing and analyzing images in precision agriculture and livestock farming, and environmental monitoring.",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "UAV",
+        "Precision Agriculture",
+        "Precision Livestock",
+        "Environmental Monitoring"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": ""
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Dual-Mode Microstrip Resonator Filters",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "Design and construction of dual-mode microstrip resonator filters in the 950-1450 MHz band.",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "Microstrip",
+        "950-1450 MHz",
+        "Resonator Filters"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": "Communication System for Nanosatellites",
+      "isActive": false,
+      "description": "Design and implementation of a communication system for nanosatellites in the UHF band.",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "Nanosatellites",
+        "UHF",
+        "Ulises I",
+        "FSK"
       ],
-      "url": "https://miduconf.com"
+      "url": ""
     }
   ]
 }
